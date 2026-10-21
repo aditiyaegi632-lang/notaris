@@ -1,0 +1,6 @@
+{
+  "name": "SIMNO - Monitoring Kantor Notaris & PPAT",
+  "description": "Sistem monitoring berkas pekerjaan kantor Notaris dan PPAT terintegrasi alur tahapan, buku repertorium, deadline SLA, dan keuangan siap deploy di Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
